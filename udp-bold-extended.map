@@ -1,0 +1,22 @@
+# Font File                     Start       End
+
+# Cyrillic
+ttf/DejaVuSans-Bold.ttf,        0x00000400, 0x000004FF      # Cyrillic
+ttf/DejaVuSans-Bold.ttf,        0x00000500, 0x0000052F      # Cyrillic Supplement
+
+# European
+ttf/DejaVuSans-Bold.ttf,        0x00000000, 0x0000007F      # Basic Latin
+ttf/DejaVuSans-Bold.ttf,        0x00000080, 0x000000FF      # Latin-1
+ttf/DejaVuSans-Bold.ttf,        0x00000100, 0x0000017F      # Latin Extended-A
+ttf/DejaVuSans-Bold.ttf,        0x00000180, 0x0000024F      # Latin Extended-B
+
+# Greek
+ttf/DejaVuSans-Bold.ttf,        0x00001F00, 0x00001FFF      # Greek Extended
+
+# Japanese and Chinese
+ttf/wqy-microhei.ttf,           0x00003000, 0x000030ff      # Punctuation Hiragana and Katakana
+ttf/wqy-microhei.ttf,           0x00004e00, 0x00009faf      # CJK Unified Ideographs
+
+# Korean
+ttf/baekmuk-dotum.ttf,          0x0000AC00, 0x0000D7A3      # Hangul Precomposed Symbols
+
