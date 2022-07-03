@@ -5,6 +5,7 @@ Rasterises OTF font files into a CBF (UDP compressed binary font) file.
 
 (c) Copyright UDP Technology (2013).  All Rights Reserved.
 
+Trying to convert python3 program. failed.
 """
 
 from bitarray import bitarray
